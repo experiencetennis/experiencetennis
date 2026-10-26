@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:183E34,70:245C49,100:183E34&height=220&section=header&text=Experience.Tennis&fontSize=58&fontColor=E7BA4E&fontAlignY=38&desc=The%20finer%20side%20of%20tennis.&descAlignY=58&descSize=20" width="100%" alt="Experience.Tennis — The finer side of tennis" />
 
 
-  <img src="https://www.experience.tennis/_next/image?url=https%3A%2F%2Fpub-e663fc898af64d1aa85278961a158b2a.r2.dev%2Fmedia%2Fmaxresdefault.jpg&w=1200" width="100%" alt="Experience.Tennis — The finer side of tennis" />
+  <img src="https://images.unsplash.com/photo-1767437900523-ef9bfc60a541?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" width="100%" alt="Experience.Tennis — The finer side of tennis" />
 
   <br/>
 
@@ -19,7 +19,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=183E34&center=true&vCenter=true&width=650&lines=More+than+a+match.+A+whole+experience.;Discover+the+world+of+premium+tennis.;Your+next+unforgettable+tennis+trip+starts+here." alt="More than a match. A whole experience."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=E7BA4E&center=true&vCenter=true&width=650&lines=More+than+a+match.+A+whole+experience.;Discover+the+world+of+premium+tennis.;Your+next+unforgettable+tennis+trip+starts+here." alt="More than a match. A whole experience."/>
 
   <br/>
 
